@@ -1,4 +1,4 @@
-## Hi there 👋
+## Aerospace Engineering Student trying to learn ML
 
 <!--
 **ManoB1311/ManoB1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
